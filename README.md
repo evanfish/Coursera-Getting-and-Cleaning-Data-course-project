@@ -14,9 +14,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 This repository includes the following files:
 
-- 'README.txt': This file, which provides an overview of the project and other files contained in the repository.
+- 'README.md': This file, which provides an overview of the project and other files contained in the repository.
 
-- 'code_book.txt': A list of variables output from the run_analysis.R script and contained in 'tidy_data.xlsx'.
+- 'code_book.md': A list of variables output from the run_analysis.R script and contained in 'tidy_data.xlsx'.
 
 - 'run_analysis.R': The R script that takes the input data and creates the data set.
 
