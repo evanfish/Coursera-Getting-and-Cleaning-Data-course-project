@@ -1,11 +1,6 @@
 -------------------------
 # clear objects from the environment.
 rm(list=ls())
-
--------------------------
-
-setwd("C:/Users/n0258303/Documents/1.0 Personal Stuff/R Directory")
-
 -------------------------
 
 # run_analysis
